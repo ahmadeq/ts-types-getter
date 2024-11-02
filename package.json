@@ -1,0 +1,15 @@
+{
+  "name": "byeq",
+  "version": "1.0.0",
+  "main": "highest-rank.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Ahmad Iqtaish",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
